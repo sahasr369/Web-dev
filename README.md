@@ -1,2 +1,2 @@
 # Sample CV
-A simple HTML ans CSS 
+A simple HTML and CSS 
